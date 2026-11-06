@@ -1,4 +1,5 @@
-.claude/
+.claude/*
+!.claude/skills/
 .idea/
 .venv/
 __pycache__/
